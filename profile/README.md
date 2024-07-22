@@ -2,12 +2,7 @@
 
 Hello, there. 👋
 
-## About us 
-Welcome to the Fudan Segmentation Group, directed by Prof. [Henghui Ding](https://henghuiding.github.io/), affiliated with the [Fudan Vision and Learning Laboratory](https://fvl.fudan.edu.cn/main.htm). Our group is dedicated to advancing general multimodal perception and reasoning through deep learning.
 
-## Contact
-- [Henghui Ding](https://henghuiding.github.io/): hhding[AT]fudan.edu.cn
-- [Kaining Ying](https://kainingying.github.io/): kaining.ying.cv[AT]gmail.com
 
 <!--
 
