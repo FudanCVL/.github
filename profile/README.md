@@ -1,4 +1,4 @@
-# Fudan-Segmentation Group
+# FudanCVL
 
 Hello, there. 👋
 
