@@ -1,7 +1,8 @@
 # FudanCVL
 
 Hello, there. 👋
-
+We are a research group from Fudan University, led by [Prof. Henghui Ding](https://henghuiding.com/). Our research focuses on computer vision and machine learning.
+For more details about our work and team members, please visit our [here](https://henghuiding.com/group/).
 
 
 <!--
